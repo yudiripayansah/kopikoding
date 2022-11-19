@@ -1,0 +1,274 @@
+/*-------------------------------------------
+  Rtl Style 
+-------------------------------------------*/
+.rtl .text-end,
+.rtl .text-sm-end,
+.rtl .text-md-end {
+    text-align: left !important;
+}
+.rtl .topbar-right.text-md-end {
+    text-align: left !important;
+}
+.rtl .topbar-right.text-md-start {
+    text-align: right !important;
+}
+.rtl .navbar-top ul li {
+    margin-left: 25px;
+    margin-right: 0;
+}
+.rtl .navbar-area .nav-container.navbar-bg:after {
+    left: auto;
+    right: 15px;
+}
+.rtl .nav-right-part a {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.rtl .nav-right-part-desktop {
+    margin-left: 12px;
+}
+
+.rtl .owl-stage-outer {
+    position:relative;
+    overflow:hidden;
+    -webkit-transform:translate3d(0,0,0);
+    direction: ltr;
+}
+.rtl .slider-control-square .owl-nav button {
+    transform: rotateY(-180deg);
+}
+@media (min-width: 1024px) {
+    .rtl .navbar-area-1 .nav-right-part .btn {
+        border-radius: 0 0 0 5px;
+    }
+}
+.rtl .bl-gray-1 {
+    border-left: 0;
+    border-right: 1px solid #CDD1D8;
+    padding-left: 0;
+    padding-right: 20px;
+}
+.rtl .navbar-area-1 .nav-container .logo {
+    padding-right: 20px;
+}
+.rtl .text-lg-start {
+    text-align: right !important;
+}
+.rtl .section-title .sub-title.right-line:after {
+    right: auto;
+    left: -50px;
+}
+.rtl .single-choose-inner .icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+.rtl .accordion-button::after {
+    position: absolute;
+    left: 25px;
+}
+.rtl .single-project-inner .details-wrap a i, 
+.rtl .single-project-inner .details-wrap a svg {
+    margin-left: 0;
+    margin-right: 5px;
+    transform: rotateY(180deg);
+}
+.rtl .single-pricing-inner .header .price sub {
+    padding-left: 0;
+    padding-right: 10px;
+}
+.rtl .single-list-inner li:after {
+    right: 0;
+    left: auto;
+}
+.rtl .single-list-inner li {
+    padding-left: 0;
+    padding-right: 18px;
+}
+.rtl .half-bg-right {
+    right: auto;
+    left: 0;
+}
+.rtl .progress-item .progress-count-wrap {
+    right: auto;
+    left: 16px;
+}
+.rtl .single-blog-inner .details .read-more-btn {
+    transform: rotateY(180deg);
+}
+.rtl .footer-area .widget_subscribe button {
+    right: auto;
+    left: 15px;
+    transform: rotateY(180deg);
+}
+.rtl .footer-area .widget_subscribe .single-input-inner input {
+    padding-right: 18px;
+    padding-left: 40px;
+}
+.rtl .navbar-area .nav-container .navbar-collapse .navbar-nav > li {
+    margin-left: 0;
+    padding-left: 10px !important;
+    margin-left: 10px !important;
+}
+.rtl .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before {
+    left: -3px;
+    right: auto;
+}
+.rtl .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:after {
+    left: -7px;
+    right: auto;
+}
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu {
+    left: auto;
+    right: 0;
+}
+
+/* home 2 style */
+.rtl .navbar-top .media .media-left svg {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.rtl .navbar-area-2 .nav-container .navbar-collapse .navbar-nav {
+    padding: 0;
+}
+.rtl .navbar-area-2 .nav-container .navbar-collapse .navbar-nav > li {
+    padding: 0 15px 0 32px !important;
+    margin: 0 !important;
+}
+.rtl .navbar-area-2 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:after {
+    left: 12px;
+    right: auto;
+}
+.rtl .navbar-area-2 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before {
+    left: 16px;
+    right: auto;
+}
+.rtl .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li {
+    text-align: right;
+}
+.rtl .single-intro-inner .thumb i {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .tab-button-style li {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.rtl .single-input-inner input,
+.rtl .single-input-inner select,
+.rtl .single-input-inner textarea {
+    text-align: right;
+}
+.rtl .single-list-inner.style-check li {
+    padding-right: 0;
+}
+.rtl .single-list-inner.style-check li i, 
+.rtl .single-list-inner.style-check li svg {
+    float: right;
+    margin-left: 10px;
+    transform: rotateY(-180deg);
+    padding-top: 5px;
+    margin-right: 0;
+}
+.rtl .single-blog-inner .blog-meta li i {
+    margin-left: 6px;
+    margin-right: 0;
+    float: right;
+    padding-top: 3px;
+}
+.rtl .single-blog-inner .blog-meta li {
+    margin-right: 0;
+    margin-left: 12px;
+}
+.rtl .single-blog-inner .details .read-more-text {
+    display: inline-block;
+}
+.rtl .read-more-text:hover i {
+    display: none;
+}
+.rtl .single-blog-inner.style-2 .details .read-more-text i {
+    display: none;
+}
+.rtl .single-service-inner.style-2 .details .read-more-btn {
+    transform: rotateY(-180deg);
+}
+.rtl .how-it-work-inner.arrow-line .single-work-inner:after {
+    display: none;
+}
+.rtl .widget-recent-post ul li .media .media-left {
+    margin-left: 18px;
+    margin-right: 0;
+}
+.rtl .footer-area .widget_nav_menu ul li:after {
+    left: auto;
+    right: 0;
+}
+.rtl .footer-area .widget_nav_menu ul li {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.rtl .read-more-text svg {
+    transform: rotateY(-180deg);
+    left: -20px;
+    top: 4px;
+}
+.rtl .td-sidebar .widget ul li::after, .widget_categories ul li::after {
+    right: auto;
+    left: 0;
+    transform: rotateY(-180deg);
+}
+.rtl .wp-block-latest-comments:not(.has-avatar):not(.has-dates) li {
+    padding-left: 0;
+    padding-right: 68px;
+}
+.rtl .wp-block-latest-comments:not(.has-avatar):not(.has-dates) li::before {
+    margin-right: 0;
+    right: 0
+}
+.rtl ol.wp-block-latest-comments {
+    padding-right: 0;
+}
+.rtl .widget_archive ul li a:after, .widget_categories ul li a:after {
+    left: auto;
+    right: 0;
+}
+.rtl .widget_archive ul li a, .widget_categories ul li a {
+    padding-left: 0;
+    padding-right: 26px;
+}
+.rtl .td-sidebar .widget ul {
+    padding-right: 0;
+}
+.rtl .widget-recent-post ul li .media .media-body .post-info svg, 
+.rtl .widget-recent-post ul li .media .media-body .post-info i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .blog-comment .reply a {
+    margin-top: 0;
+    position: absolute;
+    top: 0;
+    right: auto;
+    left: 0;
+}
+@media (min-width: 992px){
+    .rtl .blog-comment .reply a {
+        right: auto;
+        left: 0;
+    }
+}
+.rtl .blog-comment .comment-body .avatar {
+    left: auto;
+    right: 0;
+}
+.rtl .blog-comment .comment-body {
+    padding-left: 0;
+    padding-right: 65px;
+}
+.rtl .consulting-contact-form {
+    text-align: right;
+}
+
+.rtl .testimonial-nav-slider-2 {
+    left: auto;
+    right: 57%;
+}
