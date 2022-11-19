@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8000
+Data file = D:\Works\kopikoding.me\kopikoding\wp-content\plugins\itechie-core//demo/demo-data.xml
+Widget file = D:\Works\kopikoding.me\kopikoding\wp-content\plugins\itechie-core//demo/widget.wie
+Customizer file = D:\Works\kopikoding.me\kopikoding\wp-content\plugins\itechie-core//demo/itechie-customiser.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo-2" (Media)
+[ERROR] Failed to import "Group 76" (Media)
+[ERROR] Failed to import "home-1" (Media)
+[ERROR] Failed to import "banner-bg" (Media)
+[ERROR] Failed to import "home-2" (Media)
+[ERROR] Failed to import "home-1" (Media)
+[ERROR] Failed to import "Group 81" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo-2" (Media)
+[ERROR] Failed to import "Group 76" (Media)
+[ERROR] Failed to import "home-1" (Media)
+[ERROR] Failed to import "banner-bg" (Media)
+[ERROR] Failed to import "home-2" (Media)
+[ERROR] Failed to import "home-1" (Media)
+[ERROR] Failed to import "Group 81" (Media)
+[ERROR] Failed to import "_x31_" (Media)
+[ERROR] Failed to import "_x36_" (Media)
+[ERROR] Failed to import "_x35_" (Media)
+[ERROR] Failed to import "_x33_" (Media)
+[ERROR] Failed to import "Logo" (Media)
+[ERROR] Failed to import "Group 77" (Media)
+[ERROR] Failed to import "Group 76" (Media)
+[ERROR] Failed to import "Group 79" (Media)
+
+
+---Importing widgets---
+Service Sidebar : 
+
+Cari - No Title - Imported
+Itechie Recent Service Widget - Latest Service - Imported
+Itechie Achievement Widget - Achievement - Imported
+Download Widget - Download  - Imported
+Itechie Hotline Widget - Hot Line - Imported
+
+Sidebar : 
+
+Cari - No Title - Imported
+Kategori - No Title - Imported
+Itechie Recent Post Widget - Recent News  - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

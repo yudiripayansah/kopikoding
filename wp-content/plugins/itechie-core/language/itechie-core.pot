@@ -1,0 +1,1703 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Itechie Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-12 00:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: itechie-core"
+
+#: inc/admin/metabox/team.php:37
+msgid " About"
+msgstr ""
+
+#: inc/admin/post-type/project.php:88 inc/admin/post-type/service.php:88
+msgid " Categories"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:47
+msgid " Currency"
+msgstr ""
+
+#: inc/admin/metabox/service.php:79
+msgid " FAQ Header"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:293
+msgid " Follow Us On:"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:56 inc/admin/post-type/project.php:56
+#: inc/admin/post-type/service.php:56 inc/admin/post-type/team.php:56
+msgid " found"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:57 inc/admin/post-type/project.php:57
+#: inc/admin/post-type/service.php:57 inc/admin/post-type/team.php:57
+msgid " found in Trash"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:53
+msgid " Price Plan"
+msgstr ""
+
+#: inc/widgets/download-widget.php:26
+msgid " Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:295
+#: inc/elementor/widgets/class-banner-widget.php:165
+#: inc/elementor/widgets/class-banner-widget.php:191
+#: inc/elementor/widgets/class-banner-widget.php:293
+#: inc/elementor/widgets/class-banner-widget.php:319
+#: inc/elementor/widgets/class-call-to-action-widget.php:130
+#: inc/elementor/widgets/class-contact-form-widget.php:229
+#: inc/elementor/widgets/class-footer-about-widget.php:144
+#: inc/elementor/widgets/class-header-widget.php:320
+#: inc/elementor/widgets/class-header-widget.php:376
+#: inc/elementor/widgets/class-intro-widget.php:270
+#: inc/elementor/widgets/class-pricing-widget.php:165
+#: inc/elementor/widgets/class-section-header-widget.php:167
+#: inc/elementor/widgets/class-service-widget.php:191
+#: inc/elementor/widgets/class-service-widget.php:223
+#: inc/elementor/widgets/class-sponsor-widget.php:137
+msgid "#"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:55
+msgid "/ Mo"
+msgstr ""
+
+#: inc/elementor/widgets/class-case-study-widget.php:257
+#: inc/elementor/widgets/class-pricing-widget.php:262
+#: inc/elementor/widgets/class-service-widget.php:340
+#: inc/elementor/widgets/class-team-widget.php:216
+msgid "0"
+msgstr ""
+
+#: inc/admin/metabox/team.php:56
+msgid "123 - 456 - 789 "
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:80
+msgid "30 Days Trial Features"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:166
+msgid "<p class=\"content\">Default Content </p>"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:41
+msgid "About"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-about-widget.php:103
+#: inc/elementor/widgets/class-footer-nav-widget.php:103
+msgid "About company"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:259
+msgid "Add Check List Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:233
+#: inc/elementor/widgets/class-about-widget.php:335
+#: inc/elementor/widgets/class-footer-about-widget.php:112
+#: inc/elementor/widgets/class-info-box-widget.php:174
+#: inc/elementor/widgets/class-info-box-widget.php:217
+#: inc/elementor/widgets/class-service-widget.php:165
+msgid "Add Content"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:178
+#: inc/elementor/widgets/class-video-widget.php:156
+msgid "Add Counter Number"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:188
+#: inc/elementor/widgets/class-video-widget.php:166
+msgid "Add Counter Sign"
+msgstr ""
+
+#: inc/widgets/download-widget.php:22
+msgid "Add Download Item"
+msgstr ""
+
+#: inc/widgets/download-widget.php:11
+msgid "Add Download List"
+msgstr ""
+
+#: inc/elementor/widgets/class-faq-widget.php:155
+msgid "Add Faq Question"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:79
+msgid "Add Features"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:154
+msgid "Add Highlight Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:215
+msgid "Add Icon"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:164
+#: inc/elementor/widgets/class-testimonial-widget.php:237
+#: inc/elementor/widgets/class-testimonial-widget.php:322
+#: inc/elementor/widgets/class-testimonial-widget.php:386
+msgid "Add Name"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:48 inc/admin/post-type/project.php:48
+#: inc/admin/post-type/service.php:48 inc/admin/post-type/team.php:48
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:49 inc/admin/post-type/project.php:49
+#: inc/admin/post-type/service.php:49 inc/admin/post-type/team.php:49
+msgid "Add New "
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:75
+msgid "Add New footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:39
+msgid "Add New header"
+msgstr ""
+
+#: inc/elementor/widgets/class-funfact-widget.php:104
+msgid "Add Number"
+msgstr ""
+
+#: inc/elementor/widgets/class-skill-widget.php:168
+msgid "Add Percentage"
+msgstr ""
+
+#: inc/admin/metabox/team.php:146
+msgid "Add Skill Item"
+msgstr ""
+
+#: inc/elementor/widgets/class-skill-widget.php:158
+msgid "Add Skill Name"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:135
+#: inc/elementor/widgets/class-about-widget.php:144
+#: inc/elementor/widgets/class-banner-widget.php:137
+#: inc/elementor/widgets/class-banner-widget.php:265
+#: inc/elementor/widgets/class-blog-widget.php:138
+#: inc/elementor/widgets/class-call-to-action-widget.php:111
+#: inc/elementor/widgets/class-case-study-widget.php:138
+#: inc/elementor/widgets/class-contact-form-widget.php:133
+#: inc/elementor/widgets/class-contact-form-widget.php:142
+#: inc/elementor/widgets/class-faq-widget.php:134
+#: inc/elementor/widgets/class-how-it-work-widget.php:134
+#: inc/elementor/widgets/class-info-box-widget.php:135
+#: inc/elementor/widgets/class-intro-widget.php:137
+#: inc/elementor/widgets/class-intro-widget.php:184
+#: inc/elementor/widgets/class-intro-widget.php:227
+#: inc/elementor/widgets/class-pricing-widget.php:134
+#: inc/elementor/widgets/class-section-header-widget.php:135
+#: inc/elementor/widgets/class-service-widget.php:139
+#: inc/elementor/widgets/class-skill-widget.php:135
+#: inc/elementor/widgets/class-team-widget.php:134
+#: inc/elementor/widgets/class-testimonial-widget.php:138
+msgid "Add Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:326
+#: inc/elementor/widgets/class-banner-widget.php:146
+#: inc/elementor/widgets/class-banner-widget.php:274
+#: inc/elementor/widgets/class-blog-widget.php:147
+#: inc/elementor/widgets/class-case-study-widget.php:150
+#: inc/elementor/widgets/class-faq-widget.php:143
+#: inc/elementor/widgets/class-how-it-work-widget.php:143
+#: inc/elementor/widgets/class-news-letter-widget.php:134
+#: inc/elementor/widgets/class-news-letter-widget.php:201
+#: inc/elementor/widgets/class-pricing-widget.php:143
+#: inc/elementor/widgets/class-service-widget.php:152
+#: inc/elementor/widgets/class-team-widget.php:143
+#: inc/elementor/widgets/class-testimonial-widget.php:150
+msgid "Add Summary"
+msgstr ""
+
+#: inc/elementor/widgets/class-section-header-widget.php:145
+msgid "Add Summary Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:182
+#: inc/elementor/widgets/class-testimonial-widget.php:255
+#: inc/elementor/widgets/class-testimonial-widget.php:340
+#: inc/elementor/widgets/class-testimonial-widget.php:404
+msgid "Add Testimonial Content"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:185
+#: inc/elementor/widgets/class-how-it-work-widget.php:173
+#: inc/elementor/widgets/class-how-it-work-widget.php:217
+msgid "Add Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:126
+#: inc/elementor/widgets/class-banner-widget.php:128
+#: inc/elementor/widgets/class-banner-widget.php:256
+#: inc/elementor/widgets/class-blog-widget.php:129
+#: inc/elementor/widgets/class-call-to-action-widget.php:102
+#: inc/elementor/widgets/class-case-study-widget.php:126
+#: inc/elementor/widgets/class-contact-form-widget.php:124
+#: inc/elementor/widgets/class-faq-widget.php:124
+#: inc/elementor/widgets/class-faq-widget.php:242
+#: inc/elementor/widgets/class-footer-about-widget.php:102
+#: inc/elementor/widgets/class-footer-nav-widget.php:102
+#: inc/elementor/widgets/class-how-it-work-widget.php:125
+#: inc/elementor/widgets/class-info-box-widget.php:123
+#: inc/elementor/widgets/class-intro-widget.php:125
+#: inc/elementor/widgets/class-news-letter-widget.php:125
+#: inc/elementor/widgets/class-news-letter-widget.php:192
+#: inc/elementor/widgets/class-pricing-widget.php:125
+#: inc/elementor/widgets/class-section-header-widget.php:125
+#: inc/elementor/widgets/class-service-widget.php:129
+#: inc/elementor/widgets/class-skill-widget.php:125
+#: inc/elementor/widgets/class-team-widget.php:125
+#: inc/elementor/widgets/class-testimonial-widget.php:126
+#: inc/elementor/widgets/class-video-widget.php:124
+msgid "Add Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:168
+#: inc/elementor/widgets/class-about-widget.php:224
+#: inc/elementor/widgets/class-about-widget.php:316
+#: inc/elementor/widgets/class-contact-form-widget.php:176
+#: inc/elementor/widgets/class-how-it-work-widget.php:163
+#: inc/elementor/widgets/class-how-it-work-widget.php:207
+#: inc/elementor/widgets/class-info-box-widget.php:163
+#: inc/elementor/widgets/class-info-box-widget.php:206
+#: inc/elementor/widgets/class-intro-widget.php:151
+#: inc/elementor/widgets/class-intro-widget.php:175
+#: inc/elementor/widgets/class-intro-widget.php:218
+#: inc/elementor/widgets/class-intro-widget.php:261
+#: inc/elementor/widgets/class-news-letter-widget.php:145
+#: inc/elementor/widgets/class-video-widget.php:146
+msgid "Add title"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:227
+#: inc/elementor/widgets/class-header-widget.php:318
+msgid "Add Url"
+msgstr ""
+
+#: inc/elementor/widgets/class-video-widget.php:133
+msgid "Add Video Url"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:52 inc/admin/post-type/project.php:52
+#: inc/admin/post-type/service.php:52 inc/admin/post-type/team.php:52
+msgid "All "
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:79
+msgid "All Footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:43
+msgid "All Header"
+msgstr ""
+
+#: inc/elementor/templates/case-study-four.php:8
+#: inc/elementor/templates/case-study-three.php:25
+msgid "All Items"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:210
+msgid "All Service"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:51
+#: inc/widgets/recent-service-widget.php:44
+#: inc/elementor/widgets/class-blog-widget.php:258
+#: inc/elementor/widgets/class-case-study-widget.php:244
+#: inc/elementor/widgets/class-pricing-widget.php:249
+#: inc/elementor/widgets/class-service-widget.php:327
+#: inc/elementor/widgets/class-team-widget.php:203
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:38
+#: inc/widgets/recent-service-widget.php:31
+#: inc/elementor/widgets/class-blog-widget.php:241
+#: inc/elementor/widgets/class-case-study-widget.php:227
+#: inc/elementor/widgets/class-pricing-widget.php:232
+#: inc/elementor/widgets/class-service-widget.php:310
+#: inc/elementor/widgets/class-team-widget.php:186
+msgid "Author"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:85
+msgid "Availability"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:294
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/class-call-to-action-widget.php:145
+#: inc/elementor/widgets/class-contact-form-widget.php:149
+#: inc/elementor/widgets/class-testimonial-widget.php:306
+#: inc/elementor/widgets/class-video-widget.php:188
+msgid "Background Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:216
+msgid "Background Shape"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:41
+msgid "Banner"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:205
+msgid "Banner Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:41
+msgid "Blog"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:93
+msgid "Button Label"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:280
+#: inc/elementor/widgets/class-banner-widget.php:153
+#: inc/elementor/widgets/class-banner-widget.php:281
+#: inc/elementor/widgets/class-call-to-action-widget.php:118
+#: inc/elementor/widgets/class-header-widget.php:364
+#: inc/elementor/widgets/class-pricing-widget.php:150
+#: inc/elementor/widgets/class-section-header-widget.php:152
+#: inc/elementor/widgets/class-service-widget.php:176
+msgid "Button Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:179
+#: inc/elementor/widgets/class-banner-widget.php:307
+msgid "Button Text Two"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:100
+#: inc/elementor/widgets/class-about-widget.php:293
+#: inc/elementor/widgets/class-banner-widget.php:163
+#: inc/elementor/widgets/class-banner-widget.php:291
+#: inc/elementor/widgets/class-call-to-action-widget.php:128
+#: inc/elementor/widgets/class-header-widget.php:374
+#: inc/elementor/widgets/class-pricing-widget.php:163
+#: inc/elementor/widgets/class-section-header-widget.php:165
+#: inc/elementor/widgets/class-service-widget.php:189
+msgid "Button Url"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:189
+#: inc/elementor/widgets/class-banner-widget.php:317
+msgid "Button Url Two"
+msgstr ""
+
+#: inc/elementor/widgets/class-call-to-action-widget.php:41
+msgid "Call To Action"
+msgstr ""
+
+#: inc/elementor/widgets/class-case-study-widget.php:41
+msgid "Case Study"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:30
+msgid "Category"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:266
+msgid "Check List"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:158
+#: inc/elementor/widgets/class-news-letter-widget.php:152
+msgid "Check Lists"
+msgstr ""
+
+#: inc/elementor/widgets/class-news-letter-widget.php:208
+msgid "Choose From Contact Form"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-about-widget.php:121
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/admin/metabox/team.php:78
+msgid "Color"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:41
+#: inc/elementor/widgets/class-faq-widget.php:229
+msgid "Contact Form"
+msgstr ""
+
+#: inc/elementor/widgets/class-faq-widget.php:240
+msgid "Contact Form Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:178
+msgid "Contact Us"
+msgstr ""
+
+#: inc/elementor/widgets/class-call-to-action-widget.php:120
+msgid "Contact With Us"
+msgstr ""
+
+#: inc/admin/metabox/service.php:59
+#: inc/elementor/widgets/class-about-widget.php:116
+#: inc/elementor/widgets/class-about-widget.php:231
+#: inc/elementor/widgets/class-about-widget.php:333
+#: inc/elementor/widgets/class-banner-widget.php:115
+#: inc/elementor/widgets/class-banner-widget.php:241
+#: inc/elementor/widgets/class-blog-widget.php:116
+#: inc/elementor/widgets/class-call-to-action-widget.php:92
+#: inc/elementor/widgets/class-case-study-widget.php:116
+#: inc/elementor/widgets/class-contact-form-widget.php:114
+#: inc/elementor/widgets/class-contact-form-widget.php:183
+#: inc/elementor/widgets/class-copyright-widget.php:114
+#: inc/elementor/widgets/class-faq-widget.php:114
+#: inc/elementor/widgets/class-footer-about-widget.php:92
+#: inc/elementor/widgets/class-footer-about-widget.php:110
+#: inc/elementor/widgets/class-footer-nav-widget.php:92
+#: inc/elementor/widgets/class-footer-subscribe-widget.php:92
+#: inc/elementor/widgets/class-funfact-widget.php:92
+#: inc/elementor/widgets/class-how-it-work-widget.php:115
+#: inc/elementor/widgets/class-info-box-widget.php:113
+#: inc/elementor/widgets/class-info-box-widget.php:172
+#: inc/elementor/widgets/class-info-box-widget.php:215
+#: inc/elementor/widgets/class-intro-widget.php:115
+#: inc/elementor/widgets/class-pricing-widget.php:115
+#: inc/elementor/widgets/class-section-header-widget.php:115
+#: inc/elementor/widgets/class-service-widget.php:116
+#: inc/elementor/widgets/class-service-widget.php:163
+#: inc/elementor/widgets/class-skill-widget.php:115
+#: inc/elementor/widgets/class-sponsor-widget.php:115
+#: inc/elementor/widgets/class-team-widget.php:115
+#: inc/elementor/widgets/class-testimonial-widget.php:116
+#: inc/elementor/widgets/class-video-widget.php:114
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/widgets/class-copyright-widget.php:122
+#: inc/elementor/widgets/class-copyright-widget.php:124
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:176
+#: inc/elementor/widgets/class-video-widget.php:154
+msgid "Counter Number"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:40
+#: inc/widgets/recent-service-widget.php:33
+#: inc/elementor/widgets/class-blog-widget.php:243
+#: inc/elementor/widgets/class-case-study-widget.php:229
+#: inc/elementor/widgets/class-pricing-widget.php:234
+#: inc/elementor/widgets/class-service-widget.php:312
+#: inc/elementor/widgets/class-team-widget.php:188
+msgid "Date"
+msgstr ""
+
+#: inc/admin/metabox/service.php:97 inc/admin/metabox/service.php:98
+msgid "Default Answer"
+msgstr ""
+
+#: inc/elementor/widgets/class-section-header-widget.php:136
+#: inc/elementor/widgets/class-service-widget.php:140
+msgid "Default Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:153
+msgid "Default Summary"
+msgstr ""
+
+#: inc/admin/metabox/service.php:92
+#: inc/elementor/widgets/class-section-header-widget.php:126
+#: inc/elementor/widgets/class-service-widget.php:130
+msgid "Default Title"
+msgstr ""
+
+#: inc/demo-import.php:10
+msgid "Demo"
+msgstr ""
+
+#: inc/functions.php:350 inc/functions.php:351
+msgid "Demo import"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:50
+#: inc/widgets/recent-service-widget.php:43
+#: inc/elementor/widgets/class-blog-widget.php:257
+#: inc/elementor/widgets/class-case-study-widget.php:243
+#: inc/elementor/widgets/class-pricing-widget.php:248
+#: inc/elementor/widgets/class-service-widget.php:326
+#: inc/elementor/widgets/class-team-widget.php:202
+msgid "DESC"
+msgstr ""
+
+#: inc/admin/metabox/team.php:31
+#: inc/elementor/widgets/class-testimonial-widget.php:171
+#: inc/elementor/widgets/class-testimonial-widget.php:173
+#: inc/elementor/widgets/class-testimonial-widget.php:244
+#: inc/elementor/widgets/class-testimonial-widget.php:246
+#: inc/elementor/widgets/class-testimonial-widget.php:329
+#: inc/elementor/widgets/class-testimonial-widget.php:331
+#: inc/elementor/widgets/class-testimonial-widget.php:393
+#: inc/elementor/widgets/class-testimonial-widget.php:395
+msgid "Designation"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:282
+#: inc/elementor/widgets/class-banner-widget.php:155
+#: inc/elementor/widgets/class-banner-widget.php:181
+#: inc/elementor/widgets/class-banner-widget.php:283
+#: inc/elementor/widgets/class-banner-widget.php:309
+#: inc/elementor/widgets/class-pricing-widget.php:152
+#: inc/elementor/widgets/class-section-header-widget.php:154
+msgid "Discover More"
+msgstr ""
+
+#: inc/widgets/download-widget.php:16
+msgid "Download"
+msgstr ""
+
+#: inc/widgets/download-widget.php:28
+msgid "Download PDF"
+msgstr ""
+
+#: inc/widgets/download-widget.php:32
+msgid "Download Url"
+msgstr ""
+
+#: inc/widgets/download-widget.php:9
+msgid "Download Widget"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:50 inc/admin/post-type/project.php:50
+#: inc/admin/post-type/service.php:50 inc/admin/post-type/team.php:50
+msgid "Edit "
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:77
+msgid "Edit footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:41
+msgid "Edit header"
+msgstr ""
+
+#: inc/admin/metabox/team.php:73
+msgid "Enter Social Url"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:218
+msgid "Exclude Category"
+msgstr ""
+
+#: inc/admin/metabox/team.php:88 inc/admin/metabox/team.php:92
+msgid "Experience"
+msgstr ""
+
+#: inc/admin/metabox/team.php:103 inc/admin/metabox/team.php:119
+msgid "Experience Content"
+msgstr ""
+
+#: inc/admin/metabox/team.php:96
+msgid "Experience Header"
+msgstr ""
+
+#: inc/admin/metabox/team.php:107
+msgid "Experience Title"
+msgstr ""
+
+#: inc/admin/metabox/team.php:113
+msgid "Experience Year"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:169
+#: inc/elementor/widgets/class-funfact-widget.php:123
+#: inc/elementor/widgets/class-video-widget.php:147
+msgid "Experiences"
+msgstr ""
+
+#: inc/admin/metabox/service.php:75 inc/admin/metabox/service.php:86
+#: inc/elementor/widgets/class-faq-widget.php:41
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/metabox/service.php:71
+#: inc/elementor/widgets/class-faq-widget.php:171
+msgid "Faq"
+msgstr ""
+
+#: inc/elementor/widgets/class-faq-widget.php:162
+#: inc/elementor/widgets/class-faq-widget.php:164
+msgid "Faq Answer"
+msgstr ""
+
+#: inc/elementor/widgets/class-faq-widget.php:153
+msgid "Faq Question"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:241
+msgid "Feature Box"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:203
+#: inc/elementor/widgets/class-funfact-widget.php:130
+#: inc/elementor/widgets/class-intro-widget.php:201
+msgid "Feature Lists"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:74 inc/admin/metabox/service.php:43
+msgid "Features"
+msgstr ""
+
+#: inc/admin/metabox/service.php:36
+msgid "Features Section Title"
+msgstr ""
+
+#: inc/admin/metabox/service.php:54
+#: inc/elementor/widgets/class-info-box-widget.php:164
+msgid "Flexible Solutions"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-about-widget.php:41
+msgid "Footer About"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:72
+#: inc/admin/class-header-footer-post-type.php:73
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/elementor/widgets/class-copyright-widget.php:41
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-nav-widget.php:41
+msgid "Footer Nav"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-subscribe-widget.php:41
+msgid "Footer Subscribe"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:196
+#: inc/elementor/widgets/class-funfact-widget.php:41
+#: inc/elementor/widgets/class-video-widget.php:174
+msgid "Fun Fact"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:96
+#: inc/elementor/widgets/class-header-widget.php:366
+msgid "Get Started"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:41
+msgid "Header"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:36
+#: inc/admin/class-header-footer-post-type.php:37
+msgid "Header Builder"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:152
+msgid "Highlight Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:274
+msgid "Hot Line: (+00)-333-444-555"
+msgstr ""
+
+#: inc/elementor/widgets/class-how-it-work-widget.php:41
+msgid "How It Work"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:23
+#: inc/widgets/recent-service-widget.php:23
+msgid "How Many Post Display ?"
+msgstr ""
+
+#: inc/elementor/widgets/class-case-study-widget.php:256
+#: inc/elementor/widgets/class-pricing-widget.php:261
+#: inc/elementor/widgets/class-service-widget.php:339
+#: inc/elementor/widgets/class-team-widget.php:215
+msgid "How Many Post You Offset"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://solverwp.com/"
+msgstr ""
+
+#: inc/admin/metabox/service.php:48
+#: inc/elementor/widgets/class-about-widget.php:213
+#: inc/elementor/widgets/class-how-it-work-widget.php:197
+#: inc/elementor/widgets/class-info-box-widget.php:181
+#: inc/elementor/widgets/class-info-box-widget.php:224
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:234
+#: inc/elementor/widgets/class-intro-widget.php:284
+msgid "Icon Image"
+msgstr ""
+
+#: inc/admin/metabox/service.php:106
+#: inc/elementor/widgets/class-about-widget.php:370
+#: inc/elementor/widgets/class-contact-form-widget.php:192
+#: inc/elementor/widgets/class-faq-widget.php:196
+#: inc/elementor/widgets/class-intro-widget.php:191
+#: inc/elementor/widgets/class-news-letter-widget.php:165
+#: inc/elementor/widgets/class-sponsor-widget.php:126
+#: inc/elementor/widgets/class-testimonial-widget.php:262
+#: inc/elementor/widgets/class-testimonial-widget.php:347
+msgid "Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:381
+#: inc/elementor/widgets/class-banner-widget.php:226
+#: inc/elementor/widgets/class-faq-widget.php:207
+msgid "Image Shape"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:393
+#: inc/elementor/widgets/class-faq-widget.php:216
+msgid "Image Shape Two"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:361
+#: inc/elementor/widgets/class-faq-widget.php:184
+msgid "Images"
+msgstr ""
+
+#: inc/elementor/widgets/class-info-box-widget.php:41
+msgid "Info Box"
+msgstr ""
+
+#: inc/elementor/widgets/class-info-box-widget.php:189
+#: inc/elementor/widgets/class-info-box-widget.php:232
+msgid "Info Boxes"
+msgstr ""
+
+#: inc/admin/metabox/project.php:42 inc/admin/metabox/team.php:55
+msgid "Info Content"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:244
+msgid "Info Lists"
+msgstr ""
+
+#: inc/admin/metabox/project.php:36 inc/admin/metabox/team.php:49
+msgid "Info Title"
+msgstr ""
+
+#: inc/demo-import.php:11
+msgid "Insert Demo"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:41
+msgid "Intro"
+msgstr ""
+
+#: inc/admin/metabox/team.php:109
+msgid "IT Expert"
+msgstr ""
+
+#: inc/admin/metabox/project.php:43
+msgid "It Solution Service"
+msgstr ""
+
+#. Name of the plugin
+msgid "Itechie Core"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:9
+msgid "Itechie Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/recent-service-widget.php:9
+msgid "Itechie Recent Service Widget"
+msgstr ""
+
+#: inc/elementor/class-elementor-widgets-init.php:55
+msgid "ITECHIE Widgets"
+msgstr ""
+
+#: inc/elementor/widgets/class-how-it-work-widget.php:181
+#: inc/elementor/widgets/class-how-it-work-widget.php:225
+#: inc/elementor/widgets/class-intro-widget.php:302
+msgid "Items"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:189
+msgid "Large Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:88
+#: inc/elementor/widgets/class-banner-widget.php:88
+#: inc/elementor/widgets/class-blog-widget.php:88
+#: inc/elementor/widgets/class-case-study-widget.php:88
+#: inc/elementor/widgets/class-contact-form-widget.php:88
+#: inc/elementor/widgets/class-copyright-widget.php:88
+#: inc/elementor/widgets/class-faq-widget.php:88
+#: inc/elementor/widgets/class-header-widget.php:88
+#: inc/elementor/widgets/class-how-it-work-widget.php:88
+#: inc/elementor/widgets/class-info-box-widget.php:87
+#: inc/elementor/widgets/class-intro-widget.php:88
+#: inc/elementor/widgets/class-news-letter-widget.php:88
+#: inc/elementor/widgets/class-pricing-widget.php:88
+#: inc/elementor/widgets/class-section-header-widget.php:88
+#: inc/elementor/widgets/class-service-widget.php:88
+#: inc/elementor/widgets/class-skill-widget.php:88
+#: inc/elementor/widgets/class-sponsor-widget.php:88
+#: inc/elementor/widgets/class-team-widget.php:88
+#: inc/elementor/widgets/class-testimonial-widget.php:88
+#: inc/elementor/widgets/class-video-widget.php:88
+msgid "Layout"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:103
+#: inc/elementor/widgets/class-blog-widget.php:103
+#: inc/elementor/widgets/class-case-study-widget.php:103
+#: inc/elementor/widgets/class-service-widget.php:103
+#: inc/elementor/widgets/class-testimonial-widget.php:103
+msgid "Layout Four"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:100
+#: inc/elementor/widgets/class-banner-widget.php:100
+#: inc/elementor/widgets/class-blog-widget.php:100
+#: inc/elementor/widgets/class-case-study-widget.php:100
+#: inc/elementor/widgets/class-contact-form-widget.php:100
+#: inc/elementor/widgets/class-copyright-widget.php:100
+#: inc/elementor/widgets/class-faq-widget.php:100
+#: inc/elementor/widgets/class-header-widget.php:100
+#: inc/elementor/widgets/class-how-it-work-widget.php:100
+#: inc/elementor/widgets/class-info-box-widget.php:99
+#: inc/elementor/widgets/class-intro-widget.php:100
+#: inc/elementor/widgets/class-news-letter-widget.php:100
+#: inc/elementor/widgets/class-pricing-widget.php:100
+#: inc/elementor/widgets/class-section-header-widget.php:100
+#: inc/elementor/widgets/class-service-widget.php:100
+#: inc/elementor/widgets/class-skill-widget.php:100
+#: inc/elementor/widgets/class-sponsor-widget.php:100
+#: inc/elementor/widgets/class-team-widget.php:100
+#: inc/elementor/widgets/class-testimonial-widget.php:100
+#: inc/elementor/widgets/class-video-widget.php:100
+msgid "Layout One"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:102
+#: inc/elementor/widgets/class-banner-widget.php:102
+#: inc/elementor/widgets/class-blog-widget.php:102
+#: inc/elementor/widgets/class-case-study-widget.php:102
+#: inc/elementor/widgets/class-header-widget.php:102
+#: inc/elementor/widgets/class-how-it-work-widget.php:102
+#: inc/elementor/widgets/class-intro-widget.php:102
+#: inc/elementor/widgets/class-pricing-widget.php:102
+#: inc/elementor/widgets/class-section-header-widget.php:102
+#: inc/elementor/widgets/class-service-widget.php:102
+#: inc/elementor/widgets/class-skill-widget.php:102
+#: inc/elementor/widgets/class-sponsor-widget.php:102
+#: inc/elementor/widgets/class-team-widget.php:102
+#: inc/elementor/widgets/class-testimonial-widget.php:102
+msgid "Layout Three"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:101
+#: inc/elementor/widgets/class-banner-widget.php:101
+#: inc/elementor/widgets/class-blog-widget.php:101
+#: inc/elementor/widgets/class-case-study-widget.php:101
+#: inc/elementor/widgets/class-contact-form-widget.php:101
+#: inc/elementor/widgets/class-copyright-widget.php:101
+#: inc/elementor/widgets/class-faq-widget.php:101
+#: inc/elementor/widgets/class-header-widget.php:101
+#: inc/elementor/widgets/class-how-it-work-widget.php:101
+#: inc/elementor/widgets/class-info-box-widget.php:100
+#: inc/elementor/widgets/class-intro-widget.php:101
+#: inc/elementor/widgets/class-news-letter-widget.php:101
+#: inc/elementor/widgets/class-pricing-widget.php:101
+#: inc/elementor/widgets/class-section-header-widget.php:101
+#: inc/elementor/widgets/class-service-widget.php:101
+#: inc/elementor/widgets/class-skill-widget.php:101
+#: inc/elementor/widgets/class-sponsor-widget.php:101
+#: inc/elementor/widgets/class-team-widget.php:101
+#: inc/elementor/widgets/class-testimonial-widget.php:101
+#: inc/elementor/widgets/class-video-widget.php:101
+msgid "Layout Two"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:131
+#: inc/elementor/widgets/class-header-widget.php:139
+msgid "Logo"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:164
+msgid "Logo Dimension"
+msgstr ""
+
+#: inc/admin/metabox/service.php:60
+msgid "Maecenas tempus, tellus eget condime honcus sem quam semper"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:150
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/admin/metabox/team.php:44
+msgid "More Info"
+msgstr ""
+
+#: inc/admin/metabox/service.php:81
+msgid "More information"
+msgstr ""
+
+#: inc/admin/metabox/service.php:38 inc/admin/metabox/team.php:98
+msgid "My Experiences"
+msgstr ""
+
+#: inc/admin/metabox/team.php:141
+msgid "My Professional"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:162
+#: inc/elementor/widgets/class-testimonial-widget.php:235
+#: inc/elementor/widgets/class-testimonial-widget.php:320
+#: inc/elementor/widgets/class-testimonial-widget.php:384
+msgid "Name"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:112
+msgid "Navigation"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:51 inc/admin/post-type/project.php:51
+#: inc/admin/post-type/service.php:51 inc/admin/post-type/team.php:51
+msgid "New "
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:76
+msgid "New footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:40
+msgid "New header"
+msgstr ""
+
+#: inc/elementor/widgets/class-news-letter-widget.php:41
+msgid "News Letter"
+msgstr ""
+
+#: inc/elementor/widgets/class-news-letter-widget.php:181
+msgid "Newsletter"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:56 inc/admin/post-type/pricing.php:57
+#: inc/admin/post-type/project.php:56 inc/admin/post-type/project.php:57
+#: inc/admin/post-type/service.php:56 inc/admin/post-type/service.php:57
+#: inc/admin/post-type/team.php:56 inc/admin/post-type/team.php:57
+msgid "No "
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:83
+msgid "No footer found in Trash."
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:82
+msgid "No footer found."
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:47
+msgid "No header found in Trash."
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:46
+msgid "No header found."
+msgstr ""
+
+#: inc/elementor/widgets/class-funfact-widget.php:102
+#: inc/elementor/widgets/class-how-it-work-widget.php:152
+msgid "Number"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:165
+#: inc/elementor/widgets/class-case-study-widget.php:184
+#: inc/elementor/widgets/class-pricing-widget.php:209
+#: inc/elementor/widgets/class-service-widget.php:267
+#: inc/elementor/widgets/class-team-widget.php:163
+msgid "Number Of Posts"
+msgstr ""
+
+#: inc/elementor/widgets/class-info-box-widget.php:207
+msgid "Office address\t"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:242
+msgid "Office time"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:204
+#: inc/elementor/widgets/class-header-widget.php:251
+msgid "Opening Hour 9:00am - 10:00pm"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:48
+#: inc/widgets/recent-service-widget.php:41
+#: inc/elementor/widgets/class-blog-widget.php:254
+#: inc/elementor/widgets/class-case-study-widget.php:240
+#: inc/elementor/widgets/class-pricing-widget.php:245
+#: inc/elementor/widgets/class-service-widget.php:323
+#: inc/elementor/widgets/class-team-widget.php:199
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:36
+#: inc/widgets/recent-service-widget.php:29
+msgid "Order By"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:238
+#: inc/elementor/widgets/class-case-study-widget.php:224
+#: inc/elementor/widgets/class-pricing-widget.php:229
+#: inc/elementor/widgets/class-service-widget.php:307
+#: inc/elementor/widgets/class-team-widget.php:183
+msgid "Order by"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:355
+msgid "Other"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:317
+msgid "Our Mission"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:81
+msgid "Parent : footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:45
+msgid "Parent : header"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:68
+msgid "per month billed annually"
+msgstr ""
+
+#: inc/admin/metabox/team.php:157
+#: inc/elementor/widgets/class-skill-widget.php:166
+msgid "Percentage"
+msgstr ""
+
+#: inc/admin/metabox/team.php:50
+msgid "Phone :"
+msgstr ""
+
+#: inc/admin/metabox/team.php:68
+msgid "Pick Up Your Icon"
+msgstr ""
+
+#: inc/elementor/templates/blog-four.php:15
+msgid "Post by "
+msgstr ""
+
+#: inc/elementor/widgets/class-case-study-widget.php:254
+#: inc/elementor/widgets/class-pricing-widget.php:259
+#: inc/elementor/widgets/class-service-widget.php:337
+#: inc/elementor/widgets/class-team-widget.php:213
+msgid "Post Offset"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:157
+#: inc/elementor/widgets/class-case-study-widget.php:165
+#: inc/elementor/widgets/class-pricing-widget.php:187
+#: inc/elementor/widgets/class-service-widget.php:245
+#: inc/elementor/widgets/class-team-widget.php:155
+msgid "Post Options"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:70
+msgctxt "Post Type General Name"
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:34
+msgctxt "Post Type General Name"
+msgid "Header Builder"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:46
+msgctxt "Post Type General Name"
+msgid "Pricing"
+msgstr ""
+
+#: inc/admin/post-type/project.php:46
+msgctxt "Post Type General Name"
+msgid "Project"
+msgstr ""
+
+#: inc/admin/post-type/service.php:46
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: inc/admin/post-type/team.php:46
+msgctxt "Post Type General Name"
+msgid "Teams"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:71
+msgctxt "Post Type Singular Name"
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:35
+msgctxt "Post Type Singular Name"
+msgid "Header Builder"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:47
+msgctxt "Post Type Singular Name"
+msgid "Pricing"
+msgstr ""
+
+#: inc/admin/post-type/project.php:47
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr ""
+
+#: inc/admin/post-type/service.php:47
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: inc/admin/post-type/team.php:47
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:61
+msgid "Price Icon"
+msgstr ""
+
+#: inc/elementor/widgets/class-pricing-widget.php:41
+msgid "Pricing"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:27
+msgid "Pricing Info"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:20
+msgid "Pricing Meta"
+msgstr ""
+
+#: inc/admin/metabox/project.php:37
+msgid "Project"
+msgstr ""
+
+#: inc/admin/metabox/project.php:31
+msgid "Project Info"
+msgstr ""
+
+#: inc/admin/metabox/project.php:20
+msgid "Project Meta"
+msgstr ""
+
+#: inc/admin/metabox/service.php:91
+msgid "Question"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:41
+#: inc/widgets/recent-service-widget.php:34
+#: inc/elementor/widgets/class-blog-widget.php:244
+#: inc/elementor/widgets/class-case-study-widget.php:230
+#: inc/elementor/widgets/class-pricing-widget.php:235
+#: inc/elementor/widgets/class-service-widget.php:313
+#: inc/elementor/widgets/class-team-widget.php:189
+msgid "Random"
+msgstr ""
+
+#: inc/elementor/templates/blog-two.php:39
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/download-widget.php:17 inc/widgets/recent-post-widget.php:18
+#: inc/widgets/recent-service-widget.php:18
+msgid "Recent News "
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:11
+msgid "Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/recent-service-widget.php:11
+msgid "Recent Serive Widget"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:41
+msgid "Renewal Fee "
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:272
+msgid "Right Text"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:55 inc/admin/post-type/project.php:55
+#: inc/admin/post-type/service.php:55 inc/admin/post-type/team.php:55
+msgid "Search "
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:80
+msgid "Search Footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:44
+msgid "Search Header"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:208
+msgid "Second Button Text"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:221
+msgid "Second Button Url"
+msgstr ""
+
+#: inc/elementor/widgets/class-section-header-widget.php:41
+msgid "Section Header"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:135
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:123
+msgid "Section Title"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:29
+msgid "Select a category"
+msgstr ""
+
+#: inc/elementor/widgets/class-how-it-work-widget.php:164
+#: inc/elementor/widgets/class-how-it-work-widget.php:208
+msgid "Select a project"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:206
+#: inc/elementor/widgets/class-case-study-widget.php:173
+#: inc/elementor/widgets/class-pricing-widget.php:195
+#: inc/elementor/widgets/class-service-widget.php:253
+msgid "Select Category"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:218
+#: inc/elementor/widgets/class-header-widget.php:305
+msgid "Select Icon"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:96
+#: inc/elementor/widgets/class-banner-widget.php:96
+#: inc/elementor/widgets/class-blog-widget.php:96
+#: inc/elementor/widgets/class-case-study-widget.php:96
+#: inc/elementor/widgets/class-contact-form-widget.php:96
+#: inc/elementor/widgets/class-copyright-widget.php:96
+#: inc/elementor/widgets/class-faq-widget.php:96
+#: inc/elementor/widgets/class-header-widget.php:96
+#: inc/elementor/widgets/class-how-it-work-widget.php:96
+#: inc/elementor/widgets/class-info-box-widget.php:95
+#: inc/elementor/widgets/class-intro-widget.php:96
+#: inc/elementor/widgets/class-news-letter-widget.php:96
+#: inc/elementor/widgets/class-pricing-widget.php:96
+#: inc/elementor/widgets/class-section-header-widget.php:96
+#: inc/elementor/widgets/class-service-widget.php:96
+#: inc/elementor/widgets/class-skill-widget.php:96
+#: inc/elementor/widgets/class-sponsor-widget.php:96
+#: inc/elementor/widgets/class-team-widget.php:96
+#: inc/elementor/widgets/class-testimonial-widget.php:96
+#: inc/elementor/widgets/class-video-widget.php:96
+msgid "Select Layout"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:119
+msgid "Select Nav Menu"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:228
+msgid "Select tag"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:161
+#: inc/elementor/widgets/class-faq-widget.php:249
+#: inc/elementor/widgets/class-footer-subscribe-widget.php:100
+msgid "Select your contact form 7"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:41
+msgid "Service"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:378
+msgid "Service Background Shape"
+msgstr ""
+
+#: inc/admin/metabox/service.php:32
+msgid "Service Icon"
+msgstr ""
+
+#: inc/admin/metabox/service.php:27
+msgid "Service Info"
+msgstr ""
+
+#: inc/admin/metabox/service.php:20
+msgid "Service Meta"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:166
+msgid "Set Custom Logo Size."
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:349
+msgid "Shape"
+msgstr ""
+
+#: inc/elementor/widgets/class-how-it-work-widget.php:239
+msgid "Shape Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:272
+msgid "Shape One"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:282
+msgid "Shape Two"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:186
+#: inc/elementor/widgets/class-funfact-widget.php:112
+#: inc/elementor/widgets/class-video-widget.php:164
+msgid "Sign"
+msgstr ""
+
+#: inc/admin/metabox/team.php:131 inc/admin/metabox/team.php:135
+#: inc/elementor/widgets/class-skill-widget.php:41
+#: inc/elementor/widgets/class-skill-widget.php:176
+msgid "Skill"
+msgstr ""
+
+#: inc/elementor/widgets/class-skill-widget.php:156
+msgid "Skill Name"
+msgstr ""
+
+#: inc/admin/metabox/team.php:139 inc/admin/metabox/team.php:150
+msgid "Skill Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:333
+msgid "Slider Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-banner-widget.php:343
+msgid "Slider Items"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:199
+msgid "Small Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-about-widget.php:158
+msgid "Social Icon"
+msgstr ""
+
+#: inc/elementor/widgets/class-contact-form-widget.php:243
+#: inc/elementor/widgets/class-header-widget.php:334
+msgid "Social Icons"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:283
+msgid "Social Network"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:291
+msgid "Social Network Title"
+msgstr ""
+
+#: inc/admin/metabox/team.php:63
+msgid "Social Profile"
+msgstr ""
+
+#: inc/elementor/widgets/class-footer-about-widget.php:142
+msgid "Social Url"
+msgstr ""
+
+#: inc/admin/metabox/team.php:115
+msgid "Softten (2015 - 2018)"
+msgstr ""
+
+#. Author of the plugin
+msgid "SolverWp"
+msgstr ""
+
+#: inc/elementor/widgets/class-sponsor-widget.php:41
+msgid "Sponsor "
+msgstr ""
+
+#: inc/elementor/widgets/class-sponsor-widget.php:151
+msgid "Sponsors"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:32
+msgid "Style"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:133
+#: inc/elementor/widgets/class-banner-widget.php:135
+#: inc/elementor/widgets/class-banner-widget.php:263
+#: inc/elementor/widgets/class-blog-widget.php:136
+#: inc/elementor/widgets/class-call-to-action-widget.php:109
+#: inc/elementor/widgets/class-case-study-widget.php:136
+#: inc/elementor/widgets/class-contact-form-widget.php:131
+#: inc/elementor/widgets/class-faq-widget.php:132
+#: inc/elementor/widgets/class-how-it-work-widget.php:132
+#: inc/elementor/widgets/class-info-box-widget.php:133
+#: inc/elementor/widgets/class-intro-widget.php:182
+#: inc/elementor/widgets/class-intro-widget.php:225
+#: inc/elementor/widgets/class-pricing-widget.php:132
+#: inc/elementor/widgets/class-section-header-widget.php:133
+#: inc/elementor/widgets/class-service-widget.php:137
+#: inc/elementor/widgets/class-skill-widget.php:133
+#: inc/elementor/widgets/class-team-widget.php:132
+#: inc/elementor/widgets/class-testimonial-widget.php:136
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:142
+#: inc/elementor/widgets/class-about-widget.php:324
+#: inc/elementor/widgets/class-banner-widget.php:144
+#: inc/elementor/widgets/class-banner-widget.php:272
+#: inc/elementor/widgets/class-blog-widget.php:145
+#: inc/elementor/widgets/class-case-study-widget.php:148
+#: inc/elementor/widgets/class-contact-form-widget.php:140
+#: inc/elementor/widgets/class-faq-widget.php:141
+#: inc/elementor/widgets/class-how-it-work-widget.php:141
+#: inc/elementor/widgets/class-info-box-widget.php:146
+#: inc/elementor/widgets/class-info-box-widget.php:148
+#: inc/elementor/widgets/class-news-letter-widget.php:132
+#: inc/elementor/widgets/class-news-letter-widget.php:199
+#: inc/elementor/widgets/class-pricing-widget.php:141
+#: inc/elementor/widgets/class-section-header-widget.php:143
+#: inc/elementor/widgets/class-service-widget.php:150
+#: inc/elementor/widgets/class-skill-widget.php:144
+#: inc/elementor/widgets/class-skill-widget.php:146
+#: inc/elementor/widgets/class-team-widget.php:141
+#: inc/elementor/widgets/class-testimonial-widget.php:148
+msgid "Summary"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:343
+msgid "Tab Items"
+msgstr ""
+
+#: inc/admin/metabox/pricing.php:65
+msgid "Tag Line"
+msgstr ""
+
+#: inc/elementor/widgets/class-team-widget.php:41
+msgid "Team"
+msgstr ""
+
+#: inc/admin/metabox/team.php:27
+msgid "Team Member Info"
+msgstr ""
+
+#: inc/admin/metabox/team.php:20
+msgid "Team Meta"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:41
+#: inc/elementor/widgets/class-testimonial-widget.php:180
+#: inc/elementor/widgets/class-testimonial-widget.php:253
+#: inc/elementor/widgets/class-testimonial-widget.php:338
+#: inc/elementor/widgets/class-testimonial-widget.php:402
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:209
+#: inc/elementor/widgets/class-testimonial-widget.php:358
+msgid "Testimonial icon"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:411
+msgid "Testimonial Icon Image"
+msgstr ""
+
+#: inc/elementor/widgets/class-testimonial-widget.php:219
+#: inc/elementor/widgets/class-testimonial-widget.php:292
+#: inc/elementor/widgets/class-testimonial-widget.php:368
+#: inc/elementor/widgets/class-testimonial-widget.php:421
+msgid "Testimonial Lists"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:257
+#: inc/elementor/widgets/class-header-widget.php:202
+#: inc/elementor/widgets/class-header-widget.php:249
+#: inc/elementor/widgets/class-how-it-work-widget.php:171
+#: inc/elementor/widgets/class-how-it-work-widget.php:215
+msgid "Text"
+msgstr ""
+
+#: inc/demo-import.php:21
+msgid "This import maybe finish on 5-10 minutes"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is a helper plugin for Itechie  Theme"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:17 inc/widgets/recent-post-widget.php:39
+#: inc/widgets/recent-service-widget.php:17
+#: inc/widgets/recent-service-widget.php:32 inc/admin/metabox/service.php:53
+#: inc/elementor/widgets/class-about-widget.php:124
+#: inc/elementor/widgets/class-about-widget.php:166
+#: inc/elementor/widgets/class-about-widget.php:222
+#: inc/elementor/widgets/class-about-widget.php:314
+#: inc/elementor/widgets/class-banner-widget.php:126
+#: inc/elementor/widgets/class-banner-widget.php:254
+#: inc/elementor/widgets/class-blog-widget.php:127
+#: inc/elementor/widgets/class-blog-widget.php:242
+#: inc/elementor/widgets/class-call-to-action-widget.php:100
+#: inc/elementor/widgets/class-case-study-widget.php:124
+#: inc/elementor/widgets/class-case-study-widget.php:228
+#: inc/elementor/widgets/class-contact-form-widget.php:122
+#: inc/elementor/widgets/class-contact-form-widget.php:174
+#: inc/elementor/widgets/class-faq-widget.php:122
+#: inc/elementor/widgets/class-footer-about-widget.php:100
+#: inc/elementor/widgets/class-footer-nav-widget.php:100
+#: inc/elementor/widgets/class-funfact-widget.php:121
+#: inc/elementor/widgets/class-header-widget.php:240
+#: inc/elementor/widgets/class-how-it-work-widget.php:123
+#: inc/elementor/widgets/class-how-it-work-widget.php:161
+#: inc/elementor/widgets/class-how-it-work-widget.php:205
+#: inc/elementor/widgets/class-info-box-widget.php:121
+#: inc/elementor/widgets/class-info-box-widget.php:161
+#: inc/elementor/widgets/class-info-box-widget.php:204
+#: inc/elementor/widgets/class-intro-widget.php:149
+#: inc/elementor/widgets/class-intro-widget.php:173
+#: inc/elementor/widgets/class-intro-widget.php:216
+#: inc/elementor/widgets/class-intro-widget.php:259
+#: inc/elementor/widgets/class-news-letter-widget.php:123
+#: inc/elementor/widgets/class-news-letter-widget.php:143
+#: inc/elementor/widgets/class-news-letter-widget.php:190
+#: inc/elementor/widgets/class-pricing-widget.php:123
+#: inc/elementor/widgets/class-pricing-widget.php:233
+#: inc/elementor/widgets/class-section-header-widget.php:123
+#: inc/elementor/widgets/class-service-widget.php:127
+#: inc/elementor/widgets/class-service-widget.php:311
+#: inc/elementor/widgets/class-skill-widget.php:123
+#: inc/elementor/widgets/class-team-widget.php:123
+#: inc/elementor/widgets/class-team-widget.php:187
+#: inc/elementor/widgets/class-testimonial-widget.php:124
+#: inc/elementor/widgets/class-video-widget.php:122
+#: inc/elementor/widgets/class-video-widget.php:144
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:179
+msgid "Top Bar"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:360
+msgid "Top Shape One"
+msgstr ""
+
+#: inc/elementor/widgets/class-service-widget.php:369
+msgid "Top Shape Two"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:259
+msgid "Topbar Items"
+msgstr ""
+
+#: inc/elementor/widgets/class-header-widget.php:212
+msgid "Topbar Left Content"
+msgstr ""
+
+#: inc/elementor/widgets/class-intro-widget.php:268
+#: inc/elementor/widgets/class-sponsor-widget.php:135
+msgid "Url"
+msgstr ""
+
+#: inc/elementor/widgets/class-how-it-work-widget.php:174
+#: inc/elementor/widgets/class-how-it-work-widget.php:218
+msgid "Vestibulum ante ipsumusn eratultrices posu world"
+msgstr ""
+
+#: inc/elementor/widgets/class-video-widget.php:41
+msgid "Video"
+msgstr ""
+
+#: inc/elementor/widgets/class-video-widget.php:131
+msgid "Video Url"
+msgstr ""
+
+#: inc/admin/post-type/pricing.php:53 inc/admin/post-type/pricing.php:54
+#: inc/admin/post-type/project.php:53 inc/admin/post-type/project.php:54
+#: inc/admin/post-type/service.php:53 inc/admin/post-type/service.php:54
+#: inc/admin/post-type/team.php:53 inc/admin/post-type/team.php:54
+msgid "View "
+msgstr ""
+
+#: inc/elementor/templates/service-two.php:47
+msgid "View Details"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:78
+msgid "View footer"
+msgstr ""
+
+#: inc/admin/class-header-footer-post-type.php:42
+msgid "View header"
+msgstr ""
+
+#: inc/admin/metabox/team.php:152
+#: inc/elementor/widgets/class-skill-widget.php:159
+msgid "Web development"
+msgstr ""
+
+#: inc/elementor/widgets/class-news-letter-widget.php:114
+msgid "Why Subscribe Us"
+msgstr ""
+
+#: inc/elementor/widgets/class-blog-widget.php:185
+#: inc/elementor/widgets/class-case-study-widget.php:204
+#: inc/elementor/widgets/class-service-widget.php:287
+msgid "Word Limit"
+msgstr ""
+
+#: inc/elementor/widgets/class-about-widget.php:189
+#: inc/elementor/widgets/class-funfact-widget.php:114
+#: inc/elementor/widgets/class-video-widget.php:167
+msgid "Y"
+msgstr ""

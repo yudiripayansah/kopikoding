@@ -1,0 +1,99 @@
+a:4:{s:8:"template";s:7:"itechie";s:4:"mods";a:3:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:9:"main-menu";i:2;}s:18:"custom_css_post_id";i:679;}s:7:"options";a:54:{s:9:"site_icon";s:3:"916";s:37:"itechie_customize_options[main_color]";s:7:"#0060FF";s:72:"itechie_customize_options[_nonce-itechie_customize_options-section-11-1]";s:0:"";s:39:"itechie_customize_options[header_color]";s:7:"#201654";s:36:"itechie_customize_options[txt_Color]";s:7:"#696969";s:64:"itechie_theme_options[_nonce-itechie_theme_options-section-10-1]";s:0:"";s:39:"itechie_theme_options[preloader_enable]";s:1:"0";s:64:"itechie_theme_options[_nonce-itechie_theme_options-section-10-3]";s:0:"";s:38:"itechie_theme_options[back_top_enable]";s:1:"0";s:44:"itechie_theme_options[enable_header_builder]";s:1:"1";s:40:"itechie_theme_options[header-builder-id]";s:3:"340";s:50:"itechie_theme_options[_nonce-breadcrumb_options-1]";s:0:"";s:40:"itechie_theme_options[breadcrumb_enable]";s:1:"1";s:35:"itechie_theme_options[banner_shape]";s:67:"https://themes.solverwp.com/wp-content/uploads/2022/03/Group-81.svg";s:41:"itechie_theme_options[_nonce-blog_page-1]";s:0:"";s:42:"itechie_theme_options[itechie_blog_layout]";s:13:"right-sidebar";s:42:"itechie_theme_options[blog_spacing_enable]";s:0:"";s:39:"itechie_theme_options[blog_top_padding]";s:2:"20";s:42:"itechie_theme_options[blog_bottom_padding]";s:2:"20";s:43:"itechie_theme_options[_nonce-single_page-1]";s:0:"";s:49:"itechie_theme_options[itechie_single_page_layout]";s:13:"right-sidebar";s:35:"itechie_theme_options[social_share]";s:1:"1";s:50:"itechie_theme_options[blog_details_spacing_enable]";s:0:"";s:41:"itechie_theme_options[single_top_padding]";s:2:"20";s:44:"itechie_theme_options[single_bottom_padding]";s:2:"20";s:44:"itechie_theme_options[_nonce-archive_page-1]";s:0:"";s:45:"itechie_theme_options[itechie_archive_layout]";s:13:"right-sidebar";s:50:"itechie_theme_options[archive_page_spacing_enable]";s:0:"";s:42:"itechie_theme_options[archive_top_padding]";s:3:"220";s:45:"itechie_theme_options[archive_bottom_padding]";s:3:"220";s:43:"itechie_theme_options[_nonce-search_page-1]";s:0:"";s:44:"itechie_theme_options[itechie_search_layout]";s:13:"right-sidebar";s:49:"itechie_theme_options[search_page_spacing_enable]";s:0:"";s:41:"itechie_theme_options[search_top_padding]";s:2:"20";s:44:"itechie_theme_options[search_bottom_padding]";s:2:"20";s:40:"itechie_theme_options[_nonce-404_page-1]";s:0:"";s:32:"itechie_theme_options[404_title]";s:0:"";s:35:"itechie_theme_options[404_subtitle]";s:0:"";s:38:"itechie_theme_options[404_button_text]";s:0:"";s:42:"itechie_theme_options[_nonce-typography-1]";s:0:"";s:39:"itechie_theme_options[body_font_enable]";s:0:"";s:40:"itechie_theme_options[itechie_body_font]";a:7:{s:11:"font-family";s:5:"Rubik";s:11:"font-weight";s:6:"normal";s:10:"font-style";s:0:"";s:9:"font-size";s:2:"16";s:11:"line-height";s:2:"26";s:4:"type";s:6:"google";s:4:"unit";s:2:"px";}s:42:"itechie_theme_options[_nonce-typography-4]";s:0:"";s:42:"itechie_theme_options[heading_font_enable]";s:0:"";s:35:"itechie_theme_options[heading_font]";a:5:{s:11:"font-family";s:5:"Rubik";s:11:"font-weight";s:6:"normal";s:10:"font-style";s:0:"";s:4:"type";s:6:"google";s:4:"unit";s:2:"px";}s:46:"itechie_theme_options[_nonce-footer_options-1]";s:0:"";s:44:"itechie_theme_options[enable_footer_builder]";s:1:"1";s:40:"itechie_theme_options[footer-builder-id]";s:3:"344";s:37:"itechie_theme_options[copyright_text]";s:0:"";s:45:"itechie_theme_options[copyright_area_spacing]";s:0:"";s:49:"itechie_theme_options[copyright_area_top_spacing]";s:0:"";s:52:"itechie_theme_options[copyright_area_bottom_spacing]";s:0:"";s:46:"itechie_theme_options[_nonce-backup_options-1]";s:0:"";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1824:"/* alamgir */
+.footer-area .widget_subscribe button:after {
+	content: "\f061";
+	position: absolute;
+	right: 0;
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+}
+
+.navbar-top.style-3 ul li p span,
+.navbar-top.style-3 ul li p svg,
+.navbar-top.style-3 ul li p i {
+	color: #fff;
+}
+
+@media all and (max-width: 1599px) {
+		.home-2-counter .single-exp-inner.style-white h2 {
+			font-size: 40px !important;
+	}
+	.home-2-counter .section-title {
+		margin-bottom: 40px;
+	}
+}
+
+@media all and (max-width: 991px) {
+	.navbar {
+    padding: 4px 0;
+	}
+	.toggle-btn {
+		top: 2px;
+	}
+	
+	.testimonial-nav-slider-2 {
+		left: 63% !important;
+		bottom: 120px !important;
+	}
+}
+@media all and (max-width: 767px) {
+		.testimonial-nav-slider-2 {
+    left: 20px !important;
+	}
+	.testimonial-thumb-2 .single-testimonial-inner .details {
+			padding: 30px 20px 124px;
+	}
+	.testimonial-thumb-2 .thumb .quote-wrap {
+    left: -20px;
+    right: auto;
+    bottom: -20px;
+}
+}
+@media all and (max-width: 575px){
+		.td-search-popup.active .search-form {
+			visibility: visible;
+			opacity: 1;
+			width: 90%;
+			z-index: 9999;
+	}
+	.banner-inner.style-white .content br {
+		display: none;
+	}
+
+}
+
+.bl-gray-1 {
+	border-left: 1px solid #CDD1D8;
+	padding-left: 20px;
+}
+.home-2-counter .single-exp-inner.style-white h2 {
+	font-size: 80px;
+	line-height: 1;
+	font-weight: 700;
+}
+.home-2-counter .section-title {
+	margin-bottom: 80px;
+}
+.navbar-top ul li p,
+.navbar-top ul li a {
+	text-transform: capitalize;
+}
+.navbar-top ul li p i {
+  margin-right: 7px;
+	float: left;
+	margin-top: 0px;
+	font-size: 15px;
+}
+.itechie-footer-builder .mc4wp-response {
+    position: absolute;
+    bottom: 0;
+    font-size: 13px;
+    color: #fff;
+}
+.itechie-footer-builder .mc4wp-response p {
+    color: #fff;
+
+}
+
+.single-testimonial-inner.style-two.text-center {
+    margin-top: 0;
+}";}
