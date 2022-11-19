@@ -1,0 +1,41 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8000
+Data file = not defined!
+Widget file = D:\Works\kopikoding.me\kopikoding/wp-content/uploads/2022/11/widget.wie
+Customizer file = D:\Works\kopikoding.me\kopikoding/wp-content/uploads/2022/11/itechie-customiser.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Service Sidebar : 
+
+Cari - No Title - Imported
+Itechie Recent Service Widget - Latest Service - Imported
+Itechie Achievement Widget - Achievement - Imported
+Download Widget - Download  - Imported
+Itechie Hotline Widget - Hot Line - Imported
+
+Sidebar : 
+
+Cari - No Title - Imported
+Kategori - No Title - Imported
+Itechie Recent Post Widget - Recent News  - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
