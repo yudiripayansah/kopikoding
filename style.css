@@ -7,10 +7,10 @@ body {
 	font-size: 14px;
 }
 a {
-	color:#5f0099;
+	color:#422622;
 }
 a:hover {
-	color:#5f0099;
+	color:#422622;
 }
 h1, h2, h3 {
 	font-weight: 700;
@@ -27,6 +27,9 @@ h6 {
 .black {
 	color:#000000;
 }
+.logo-1 {
+	width: 200px;
+}
 .navbar {
 	position: fixed;
 	right: 0;
@@ -40,7 +43,7 @@ h6 {
 	z-index: 1030;
 }
 .navbar .active {
-	color: #5f0099 !important;
+	color: #422622 !important;
 }
 .navbar .navbar-brand {
 }
@@ -55,7 +58,7 @@ h6 {
 	font-size: 13px;
 }
 .navbar .nav-item a:hover {
-	color: #5f0099;
+	color: #422622;
 }
 .navbar .nav-link {
 	position: relative;
@@ -91,14 +94,14 @@ h6 {
 	color: #333;
 }
 .nav-scroll .nav-link:hover:after {
-	background-color: #2388ed;
+	background-color: #865132;
 }
 .nav-scroll .active {
 	position: relative;
 }
 .banner {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #422622;
+	background: linear-gradient(to left, #422622, #865132);
 	padding:100px 0px;
 	position:relative;
 }
@@ -158,7 +161,7 @@ h6 {
 .line {
 	height: 2px;
 	width: 50px;
-	background: #8e1efc;
+	background: #422622;
 	display: block;
 	margin: 20px auto 20px;
 }
@@ -168,7 +171,7 @@ h6 {
 	left: 50%;
 	width: 150px;
 	height: 2px;
-	border-bottom: 2px dashed #8e1efc;
+	border-bottom: 2px dashed #422622;
 	margin-left: -75px;
 }
 .sectioner-header p {
@@ -187,8 +190,8 @@ h6 {
 	width: 135px;
 	height: 135px;
 	border-radius: 100px;
-	background: #7a60ff;
-	background:  linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #422622;
+	background:  linear-gradient(to left, #422622, #865132);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
@@ -204,16 +207,16 @@ h6 {
 	margin: 0 auto;
 }
 .about-btn {
-	color: #8e1efc;
+	color: #422622;
 	padding: 10px 40px;
-	border: 2px solid #8e1efc;
+	border: 2px solid #422622;
 	border-radius: 7px;
 	margin-top: 30px;
 	display: inline-block;
 	font-size: 18px;
 }
 .about-btn:hover {
-	background:#8e1efc;
+	background:#422622;
 	color:#ffffff;
 	text-decoration:none;
 }
@@ -223,7 +226,7 @@ h6 {
 	overflow: hidden;
 }
 .video-overlay {
-	background: linear-gradient(to left, rgba(122, 96, 255, 0.90), rgba(205, 159, 250, 0.90));
+	background: linear-gradient(to left, rgba(65, 37, 32, 0.90), rgba(133, 80, 50, 0.90));
 }
 .video-section h3 {
 	font-weight: 600;
@@ -236,7 +239,7 @@ h6 {
 	height: 70px;
 	border-radius: 100px;
 	background: #ffffff;
-	color: #8e1efc;
+	color: #422622;
 	font-size: 30px;
 	line-height: 70px;
 	margin: 0 auto;
@@ -298,10 +301,10 @@ h6 {
 	width: 50px;
 	height: 50px;
 	border-radius: 100px;
-	color: rgb(142, 30, 252);
+	color: 422622;
 	font-size: 18px;
 	line-height: 50px;
-	border: 1px solid rgb(142, 30, 252);
+	border: 1px solid 422622;
 }
 .team {
 	background: #fafafa;
@@ -315,14 +318,14 @@ h6 {
 	width: 70%;
 }
 .team-detail h4 {
-	color:rgb(142, 30, 252);
+	color:422622;
 	margin-top: 20px;
 	font-size: 17px;
 	margin-bottom: 0px;
 }
 .testimonial {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #422622;
+	background: linear-gradient(to left, #422622, #865132);
 	padding:100px 0px;
 	position:relative;
 }
@@ -434,15 +437,15 @@ input {
 	color: #fff;
 	border-radius: 2rem;
 	border: 0;
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #422622;
+	background: linear-gradient(to left, #422622, #865132);
 	cursor:pointer;
 }
 .contact-info {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #422622;
+	background: linear-gradient(to left, #422622, #865132);
 }
 .contact-item {
 	margin:23px 0px;
@@ -455,8 +458,8 @@ input {
 	margin: 0;
 }
 .download {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #422622;
+	background: linear-gradient(to left, #422622, #865132);
 	padding:100px 0px;
 	position:relative;
 }
